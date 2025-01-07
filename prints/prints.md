@@ -11,3 +11,11 @@
 ## 3. Contêineres ativos
 
 ![docker ps](image-2.png)
+
+## 4. Aplicação funcionando
+
+![aplicação funcionando](image-5.png)
+
+## 5. Estrutura do JSON de tarefas
+
+![tasks.json](image-4.png)
